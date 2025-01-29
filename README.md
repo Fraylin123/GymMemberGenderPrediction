@@ -1,0 +1,3 @@
+Built and trained two machine learning models (Logistic Regression and Random Forest) utilizing a Kaggle dataset to predict the gender of a gym member based on their BMI, fat percentage, and type of workout they engage in (Strength, Cardio, Yoga, HIIT) for my Introduction to Data Science course. Optimized both machine learning models by incorporating Hyperparameter Tuning and Cross-Validation.
+
+Analyzed both models' performance in making correct predictions through multiple evaluation metrics and made a thorough analysis of the reasons for their performance scores by highlighting their strengths and weaknesses.
